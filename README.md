@@ -1,8 +1,8 @@
 1. Tema
-2. 
+
 Programação Orientada a Objetos (POO) em Java: desenvolvimento de uma calculadora utilizando classes, encapsulamento, propriedades get e set, herança, polimorfismo, sobrecarga de métodos e interfaces.
 
-3. Contextualização
+2. Contextualização
 
 Uma empresa de desenvolvimento de software deseja criar uma Calculadora Inteligente, capaz de realizar operações matemáticas básicas e avançadas. O sistema deverá permitir que o usuário escolha diferentes tipos de cálculos, como adição, subtração, multiplicação, divisão e cálculo de potências.
 
